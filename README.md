@@ -15,7 +15,7 @@ Strona projektu NestJS: https://nestjs.com/
 Aby pobrać tę aplikację, wykonaj poniższe polecenia. Oczywiście w systemie musi być zasinstalowany Git.
 
 ```
-git clone https://git.wmtstw.eu/skyer/NestJS_TypeORM_REST_example.git
+git clone https://github.com/lklich/-NestJS_TypeORM_REST_example.git
 
 cd NestJS_TypeORM_REST_example
 
