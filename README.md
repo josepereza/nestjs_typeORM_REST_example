@@ -53,7 +53,7 @@ Zapisz plik i uruchom serwer poleceniem:
 npm run start:dev
 ```
 
-Zajrzyj do [dokumentacji](/docs/README.md), aby zapoznać sie krok po kroku z tworzeniem oprogramowania w NestJS.
+Zajrzyj do dokumentacji w zakłądce WIKI, aby zapoznać sie krok po kroku z tworzeniem oprogramowania w NestJS.
 
 *Życzę miłej Lektury*
 
