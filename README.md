@@ -55,7 +55,7 @@ npm run start:dev
 
 Zajrzyj do dokumentacji w zakładce WIKI, aby zapoznać sie krok po kroku z tworzeniem oprogramowania w NestJS.
 
-*Życzę miłej Lektury*
+*Życzę miłej lektury*
 
 Leszek Klich
 
